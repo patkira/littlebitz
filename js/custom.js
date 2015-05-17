@@ -7,8 +7,4 @@ $(function(){
 			controlNav: "thumbnails"
 		});
 	});
-
-	$('#container').masonry({
-	    itemSelector : '.item'
-	});
 });
